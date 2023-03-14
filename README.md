@@ -14,5 +14,4 @@
 링크 : https://20220961.github.io/helloworld/
 링크 만드는 법 : https://본인아이디.github.io/레파지토리이름/
 
-## [이전 프로젝트를 보고 싶다면]
-(https://20220961.github.io)
+## [이전 프로젝트를 보고 싶다면](https://20220961.github.io)
